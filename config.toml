@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+    weight = 1
+
+[Languages.fr]
+    weight = 2
